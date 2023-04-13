@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sum Testing</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="add_item">Add Item</string>
+    <string name="placeholder_description">placeholder description</string>
+    <string name="_0_00">$0.00</string>
+    <string name="total">Total:</string>
+    <string name="total_0_00">Total: $0.00</string>
+</resources>
